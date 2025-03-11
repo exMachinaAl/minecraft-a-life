@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "mc_dbController"
+		},
+		{
+			"path": "mc_loginArc"
+		},
+		{
+			"path": "mc_mainArc"
+		},
+		{
+			"path": "mc_logicAi"
+		},
+		{
+			"path": "mc_V.N.AiArc"
+		},
+		{
+			"path": "mc_LcGameArc"
+		},
+		{
+			"path": "mc_clientWeb"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.enabledFileTypes": {
+			"cpp": false
+		}
+	}
+}

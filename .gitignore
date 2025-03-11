@@ -1,0 +1,21 @@
+# backup for the dev
+.backup-app/*
+source/*
+!source/*.gitkeep
+
+# folder for template server component and it work with vscode workspace and debugger
+
+mc_clientWeb/*
+!mc_clientWeb/*.gitkeep
+mc_dbController/*
+!mc_dbController/*.gitkeep
+mc_LcGameArc/*
+!mc_LcGameArc/*.gitkeep
+mc_logicAi/*
+!mc_logicAi/*.gitkeep
+mc_loginArc/*
+!mc_loginArc/*.gitkeep
+mc_mainArc/*
+!mc_mainArc/*.gitkeep
+mc_V.N.AiArc/*
+!mc_V.N.AiArc/*.gitkeep

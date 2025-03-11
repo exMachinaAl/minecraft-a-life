@@ -1,0 +1,56 @@
+===================================================
+======   Changelog  --  Minecraft Arcedia    ======
+===================================================
+=> () <= 
+=> () <= 
+
+⚖ => balancing or efficiency
+✉ => note atau catatan
+₿  => menguntungkan
+⇪  => improvisasi atau upgrading
+?  => permintaan atau tujuan
+%  => continuer atau lanjutan ( berkonteks )
+!  => missing atau dilupakan
+@  => date
+
+(+) => ditambahkan atau berhasil
+(-) => gagal atau belum berhasil dan bisa jadi kekurangan
+(?) (konteks atau permintaan maupun recomendation) (✓) => diselesaikan atau terselesaikan
+
+# projName/Date/creator/listRec/questionMark
+(✓) MC10022025U1? melakukan penyesuaian agar client dalam userAtau akun yang sama bisa mendapatkan data yang sama, atau bisa menggunakan akun yang sama pada beberapa orang
+(✓) MC30012025U2? membuat middleware untuk penangan user tidaK Bisa masuk ke route private ( dashboard )
+? 
+?
+?
+MC????????U?? menggabungkan ai local (deepseek) ke discord bot voice channel and voiceVox
+
+@2025
+?
++
+-
+
+
+@2025
+?
+
++
+-
+
+
+@07-02-2025
+!
+
+@30-01-2025
+(MC30012025U2) membuat middleware untuk penangan user tidaK Bisa masuk ke route private ( dashboard )
+
++ berhasil menggunakan metode state synchronitation untuk user multi pengguna, karena
+- rekonstruksi program agar cocok dengan middleware
+
+
+@28-01-2025
+(MC10022025U1) melakukan penyesuaian agar client dalam userAtau akun yang sama bisa mendapatkan data yang sama, atau bisa menggunakan akun yang sama pada beberapa orang
+
++ berhasil membuat bot dari sisi client dan ditangani oleh server main & logic
+- melakukan kesalahan yang dimana pada setiap event client2Client tidak dibuat dynamic
+- kesalahan karena belum berhasil membuat metode state
