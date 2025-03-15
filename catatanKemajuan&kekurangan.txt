@@ -18,12 +18,13 @@
 (?) (konteks atau permintaan maupun recomendation) (✓) => diselesaikan atau terselesaikan
 
 # projName/Date/creator/listRec/questionMark
+
 (✓) MC10022025U1? melakukan penyesuaian agar client dalam userAtau akun yang sama bisa mendapatkan data yang sama, atau bisa menggunakan akun yang sama pada beberapa orang
 (✓) MC30012025U2? membuat middleware untuk penangan user tidaK Bisa masuk ke route private ( dashboard )
-? 
-?
-?
-MC????????U?? menggabungkan ai local (deepseek) ke discord bot voice channel and voiceVox
+MC14032025U3? pembuatan handel api dari llama.cpp ke sisi VNA server, VNA server akan melakukan komunikasi ke main server atau Langsung ke logic server
+MC14032025U4? pembuatan subside server untuk penanganan ai voiceVox agar bisa digunakan dalam voiceChannel discord
+MC14032025U5? melakukan efisiensi dalam custom properties agar bisa digunakan dalam multiple project not static project, contoh: socketIp; agar bisa di hosting global, port; agar port bisa dicontrol menyeluruh 
+
 
 @2025
 ?
