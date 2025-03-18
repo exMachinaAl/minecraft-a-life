@@ -1,16 +1,16 @@
 [APP-GLOBAL]
-socketip=MYIP/localhost
-author=yourName
-logRoute=path/for/log.txt
+APP_AUTHOR=yourName
 
 [REACT]
-socketIp=myIP
-port=REACT-PORT
-consoleLOG=path/log.txt
+VITE_SOCKET_IP_APP=localhost
+VITE_REACT_PORT=3000
+VITE_REACT_DEV_TEST="HELLO UI"
+VITE_REACT_DEV_LOG=true
 
 [MAIN-SERVER]
 SOCKETIP=localhost
 MAIN_APP_PORT=3002
 VIEW_APP_PORT=3004
 APP_SLOG=./SLOG
+REACT_LOG_DEBUG=../mc_clientWeb/RLOG
 QUIT_KEY=Q
